@@ -9,7 +9,7 @@ namespace Assets.Code
         // Use this for initialization
         void Start()
         {  
-
+            //Разрушает объект, на который был применен скрипт.
             Destroy(gameObject)
             
 
