@@ -7,14 +7,14 @@ public class NewBehaviourScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        print("Hello Man");
+        
         
     }
 
     // Update is called once per frame
     void Update()
     {
-        // Выводит каждый кадр слово "сверчок".
+        // Г‚Г»ГўГ®Г¤ГЁГІ ГЄГ Г¦Г¤Г»Г© ГЄГ Г¤Г° Г±Г«Г®ГўГ® "Г±ГўГҐГ°Г·Г®ГЄ".
         print("crickets");
     }
 }
