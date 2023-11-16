@@ -14,7 +14,7 @@ public class NewBehaviourScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        // Âûâîäèò êàæäûé êàäð ñëîâî "ñâåð÷îê".
+        //Каждый кадр выводит в консоли слово "сверчок".
         print("crickets");
     }
 }
